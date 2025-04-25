@@ -39,3 +39,5 @@ The smart contract for the Self Publishing Platform includes the following key f
 
 This contract is built using the Soroban SDK and is designed to be efficient, secure, and user-friendly
 
+
+CONTRACT ID:-CAELCI7NWXTGEFCDDZB7RBHKKVYEDLAEANM52UCN4NJ23VIPR6KHPULL

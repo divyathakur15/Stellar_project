@@ -44,4 +44,3 @@ CONTRACT ID:-CAELCI7NWXTGEFCDDZB7RBHKKVYEDLAEANM52UCN4NJ23VIPR6KHPULL
 
 let image_url = Some(String::from_str(&env, "C:\Users\HP\Desktop\Stellar Project\Self-publishing-platform-for-writers"));
 SelfPublishingContract::publish_work(env, title, author, content, image_url);
-

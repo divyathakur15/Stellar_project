@@ -1,5 +1,9 @@
 ![Screenshot (260)](https://github.com/user-attachments/assets/70e436ff-08f2-4161-b992-a714b45afd7b)
 ![Screenshot (259)](https://github.com/user-attachments/assets/826f5b55-571d-4c3c-a191-7741fdde4fe0)
+
+CONTRACT ID:-CAELCI7NWXTGEFCDDZB7RBHKKVYEDLAEANM52UCN4NJ23VIPR6KHPULL
+
+
 # Stellar_project
 A stellar Blockchain project on "Self Publishing Platform for Writers"
 
